@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Credit Card Form</string>
+    <string name="Form_name">Nombre</string>
+    <string name="Form_last_name">Apellido</string>
+    <string name="Form_num_card">Numero de tarjeta </string>
+    <string name="Form_month">Mes</string>
+    <string name="Form_year">Año</string>
+    <string name="Form_code">Codigo</string>
+    <string name="Form_address">Direccion</string>
+    <string name="Form_street">Calle y Numero</string>
+    <string name="Form_city">Ciudad</string>
+    <string name="Form_state">Estado</string>
+    <string name="Form_code_post">Codigo Postal</string>
+    <string name="title_form">Credit Card Form</string>
+    <string name="Buttom">Guardar</string>
+    <string name="Btn_MainRegsitrar">Registrar</string>
+    <string name="Btn_MainBuscar">Buscar</string>
+    <string name="Number_card"> 1234 1234 1234 1234</string>
+    <string name="Name_Detail">Franco Veliz Marin</string>
+    <string name="Number_card_inf"> 34/34 </string>
+    <string name="Information_Card">Informacion de la tarjeta de credito</string>
+</resources>
